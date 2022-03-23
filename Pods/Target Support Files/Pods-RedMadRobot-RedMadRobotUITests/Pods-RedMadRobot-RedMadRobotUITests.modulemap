@@ -1,0 +1,6 @@
+framework module Pods_RedMadRobot_RedMadRobotUITests {
+  umbrella header "Pods-RedMadRobot-RedMadRobotUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
